@@ -1,0 +1,6 @@
+const SET_WEB_SETTING = "SET_WEB_SETTING";
+const SET_PAGE_DATA = "SET_PAGE_DATA";
+export {
+    SET_WEB_SETTING,
+    SET_PAGE_DATA
+}
